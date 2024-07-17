@@ -17,4 +17,5 @@ Back Propagation
 -> Machine Learning Algorithms in depth
 -> ONNX / Quantization in Depth . and article related to sbert ... and performance impact
 
+statistics
 ![img.png](img.png)
